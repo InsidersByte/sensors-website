@@ -12,14 +12,14 @@ describe('sensorGraphHelper', () => {
    describe('mapToTooltipLabel', () => {
        it('should return the label text', () => {
             const value = { x: 1472119853, y: 25 };
-            expect(mapToTooltipLabel(value)).toBe('x: 11:10:53\ny: 25')
+            expect(mapToTooltipLabel(value)).toBe('x: 10:10:53\ny: 25')
        });
    });
 
    describe('mapToTickFormat', () => {
        it('should return the tick text', () => {
            const value = 1472119853;
-           expect(mapToTickFormat(value)).toBe('11:10:53');
+           expect(mapToTickFormat(value)).toBe('10:10:53');
        });
    });
 });

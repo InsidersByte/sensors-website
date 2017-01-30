@@ -49,7 +49,7 @@ const Sensor = ({ sensor: { name, data } }: { sensor: SensorType }) => {
 
             <Text>Lastest Reading</Text>
             <Value>{value}</Value>
-            <Text>{time.format(FULL_DATE_FORMAT)}</Text>
+            <Text>{time.utc().format(FULL_DATE_FORMAT)}</Text>
         </Wrapper>
     );
 };

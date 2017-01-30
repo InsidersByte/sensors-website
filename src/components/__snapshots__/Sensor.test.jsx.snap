@@ -30,7 +30,7 @@ ShallowWrapper {
         25.3
     </styled.div>
     <styled.div>
-        25th August 16, 11:13:53
+        25th August 16, 10:13:53
     </styled.div>
 </styled.div>,
   "nodes": Array [
@@ -58,7 +58,7 @@ ShallowWrapper {
             25.3
       </styled.div>
       <styled.div>
-            25th August 16, 11:13:53
+            25th August 16, 10:13:53
       </styled.div>
 </styled.div>,
   ],
@@ -149,7 +149,7 @@ ShallowWrapper {
                     25.3
           </styled.div>
           <styled.div>
-                    25th August 16, 11:13:53
+                    25th August 16, 10:13:53
           </styled.div>
 </styled.div>,
         "_debugID": 2,
@@ -177,7 +177,7 @@ ShallowWrapper {
                     25.3
           </styled.div>
           <styled.div>
-                    25th August 16, 11:13:53
+                    25th August 16, 10:13:53
           </styled.div>
 </styled.div>,
       },
