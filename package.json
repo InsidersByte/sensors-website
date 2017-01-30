@@ -1,0 +1,33 @@
+{
+  "name": "sensors-website",
+  "version": "1.1.0",
+  "private": true,
+  "dependencies": {
+    "cors": "2.8.1",
+    "express": "4.14.1",
+    "moment": "2.17.1",
+    "react": "15.4.2",
+    "react-dom": "15.4.2",
+    "styled-components": "1.2.1",
+    "superagent": "3.4.1",
+    "victory": "0.15.0"
+  },
+  "devDependencies": {
+    "enzyme": "2.7.1",
+    "flow-bin": "0.37.4",
+    "flow-typed": "2.0.0",
+    "nock": "9.0.2",
+    "react-addons-test-utils": "15.4.2",
+    "react-scripts": "0.8.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start-server": "node ./server/index.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}

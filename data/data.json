@@ -1,0 +1,1897 @@
+[
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472120033,
+    "value": 25.3
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472119853,
+    "value": 25.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472119673,
+    "value": 25.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472119493,
+    "value": 25
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472119313,
+    "value": 25
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472118953,
+    "value": 24.8
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472118773,
+    "value": 24.6
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472118593,
+    "value": 24.5
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472118413,
+    "value": 24.6
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472118233,
+    "value": 24.7
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472118053,
+    "value": 24.8
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472117873,
+    "value": 24.9
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472117693,
+    "value": 25
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472117513,
+    "value": 25.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472117333,
+    "value": 25.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472117153,
+    "value": 25.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472116973,
+    "value": 25.3
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472116793,
+    "value": 25.4
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472116614,
+    "value": 25.5
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472116434,
+    "value": 25.6
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472116254,
+    "value": 25.7
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472116074,
+    "value": 25.8
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472115894,
+    "value": 26
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472115714,
+    "value": 26
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472115534,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472115354,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472115174,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472114994,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472114814,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472114634,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472114454,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472114274,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472114094,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472113914,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472113734,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472113554,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472113374,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472113194,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472113014,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472112834,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472112654,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472112474,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472112294,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472112114,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472111934,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472111754,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472111574,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472111394,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472111214,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472111034,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472110854,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472110674,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472110494,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472110314,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472110134,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472109954,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472109774,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472109594,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472109415,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472109235,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472109055,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472108875,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472108695,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472108515,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472108335,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472108155,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472107975,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472107795,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472107615,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472107435,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472107255,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472107075,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472106895,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472106714,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472106534,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472106354,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472106174,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472105994,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472105814,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472105634,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472105454,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472105274,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472105094,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472104914,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472104734,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472104554,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472104374,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472104194,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472104014,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472103834,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472103654,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472103474,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472103294,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472103114,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472102934,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472102754,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472102574,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472102394,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472102214,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472102034,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472101854,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472101674,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472101494,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472101314,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472101134,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472100954,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472100774,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472100594,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472100414,
+    "value": 26.1
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472100234,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472100054,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472099874,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472099694,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472099514,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472099334,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472099154,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472098974,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472098794,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472098614,
+    "value": 26.3
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472098434,
+    "value": 26.2
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472098254,
+    "value": 26.3
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472098074,
+    "value": 26.3
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472097894,
+    "value": 26.3
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472097714,
+    "value": 26.3
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472097534,
+    "value": 26.3
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472097354,
+    "value": 26.3
+  },
+  {
+    "sensorId": "437b3687100bcb77959a5fb6d0351b41972b1173",
+    "time": 1472097174,
+    "value": 26.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472120114,
+    "value": 25.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472119934,
+    "value": 25.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472119754,
+    "value": 25.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472119574,
+    "value": 25.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472119394,
+    "value": 25.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472118854,
+    "value": 25.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472118674,
+    "value": 25.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472118494,
+    "value": 25.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472118314,
+    "value": 26.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472118134,
+    "value": 25.9
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472117954,
+    "value": 25.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472117774,
+    "value": 25.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472117594,
+    "value": 25.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472117414,
+    "value": 25
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472117234,
+    "value": 25.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472117054,
+    "value": 25.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472116874,
+    "value": 25.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472116516,
+    "value": 24.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472116336,
+    "value": 24.9
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472116156,
+    "value": 24.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472115976,
+    "value": 24.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472115796,
+    "value": 24.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472115616,
+    "value": 24.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472115436,
+    "value": 24.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472115256,
+    "value": 23.7
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472115076,
+    "value": 23.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472114896,
+    "value": 23.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472114716,
+    "value": 23.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472114536,
+    "value": 23.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472114356,
+    "value": 23.2
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472114176,
+    "value": 22.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472113996,
+    "value": 22.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472113816,
+    "value": 22.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472113636,
+    "value": 22.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472113456,
+    "value": 22.7
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472113276,
+    "value": 22.9
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472113096,
+    "value": 23.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472112916,
+    "value": 23
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472112736,
+    "value": 22.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472112556,
+    "value": 22.2
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472112376,
+    "value": 22.2
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472112196,
+    "value": 22.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472112016,
+    "value": 22.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472111836,
+    "value": 22.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472111656,
+    "value": 21.7
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472111476,
+    "value": 21.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472111296,
+    "value": 21.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472111116,
+    "value": 21.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472110936,
+    "value": 21.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472110756,
+    "value": 21.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472110576,
+    "value": 21.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472110396,
+    "value": 21.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472110216,
+    "value": 20.9
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472110036,
+    "value": 20.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472109856,
+    "value": 20.7
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472109676,
+    "value": 20.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472109496,
+    "value": 20.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472109315,
+    "value": 20.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472109135,
+    "value": 20.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472108955,
+    "value": 20.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472108775,
+    "value": 20.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472108595,
+    "value": 19.9
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472108415,
+    "value": 20
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472108235,
+    "value": 20.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472108055,
+    "value": 20
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472107875,
+    "value": 19.7
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472107695,
+    "value": 19.7
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472107515,
+    "value": 19.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472107335,
+    "value": 19.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472107155,
+    "value": 19.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472106975,
+    "value": 19.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472106795,
+    "value": 19.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472106615,
+    "value": 19.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472106435,
+    "value": 19.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472106255,
+    "value": 19.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472106075,
+    "value": 19.7
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472105895,
+    "value": 19.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472105715,
+    "value": 19.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472105535,
+    "value": 19.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472105355,
+    "value": 19.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472105175,
+    "value": 19.2
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472104995,
+    "value": 19.2
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472104815,
+    "value": 19.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472104635,
+    "value": 19.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472104455,
+    "value": 19.2
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472104275,
+    "value": 19.4
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472104095,
+    "value": 19.2
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472103915,
+    "value": 19.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472103735,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472103555,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472103375,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472103195,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472103015,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472102835,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472102655,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472102475,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472102295,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472102116,
+    "value": 19
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472101936,
+    "value": 19.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472101756,
+    "value": 19.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472101576,
+    "value": 19.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472101396,
+    "value": 19.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472101216,
+    "value": 19.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472101036,
+    "value": 19.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472100856,
+    "value": 19.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472100676,
+    "value": 19.2
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472100496,
+    "value": 19.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472100316,
+    "value": 19.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472100136,
+    "value": 19.2
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472099956,
+    "value": 19.3
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472099776,
+    "value": 19.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472099596,
+    "value": 19.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472099416,
+    "value": 19.5
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472099236,
+    "value": 19.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472099056,
+    "value": 19.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472098876,
+    "value": 19.6
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472098696,
+    "value": 19.7
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472098516,
+    "value": 19.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472098336,
+    "value": 19.8
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472098156,
+    "value": 20
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472097976,
+    "value": 20.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472097796,
+    "value": 20.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472097616,
+    "value": 20.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472097436,
+    "value": 20.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472097256,
+    "value": 20.1
+  },
+  {
+    "sensorId": "46c634d04cc2fb4a4ee0f1596c5330328130ff80",
+    "time": 1472097076,
+    "value": 20.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472119971,
+    "value": 27.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472119791,
+    "value": 27.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472119611,
+    "value": 27.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472119431,
+    "value": 27.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472119251,
+    "value": 27.1
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472118891,
+    "value": 27.1
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472118711,
+    "value": 27.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472118531,
+    "value": 27.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472118351,
+    "value": 27.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472118261,
+    "value": 27.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472118171,
+    "value": 27.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472117991,
+    "value": 27.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472117811,
+    "value": 27.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472117631,
+    "value": 27.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472117451,
+    "value": 27.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472117271,
+    "value": 27.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472117091,
+    "value": 27.7
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472116911,
+    "value": 27.8
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472116551,
+    "value": 28
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472116371,
+    "value": 28
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472116191,
+    "value": 28.1
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472116011,
+    "value": 28.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472115831,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472115651,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472115471,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472115291,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472115111,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472114931,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472114751,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472114571,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472114391,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472114211,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472114031,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472113851,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472113671,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472113491,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472113311,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472113131,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472112951,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472112771,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472112591,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472112411,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472112231,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472112051,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472111871,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472111691,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472111511,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472111331,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472111151,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472110971,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472110791,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472110611,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472110431,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472110251,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472110071,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472109891,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472109711,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472109352,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472109172,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472108992,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472108812,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472108632,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472108452,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472108272,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472108092,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472107912,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472107732,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472107552,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472107372,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472107192,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472107012,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472106832,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472106652,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472106472,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472106292,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472106112,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472105932,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472105752,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472105572,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472105392,
+    "value": 28.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472105212,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472105032,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472104852,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472104672,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472104492,
+    "value": 28.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472104312,
+    "value": 28.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472104132,
+    "value": 28.2
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472103952,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472103772,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472103592,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472103412,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472103232,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472103052,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472102872,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472102692,
+    "value": 28.3
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472102512,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472102332,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472102152,
+    "value": 28.4
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472101972,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472101792,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472101612,
+    "value": 28.5
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472101432,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472101252,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472101072,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472100892,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472100712,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472100532,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472100352,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472100172,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472099992,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472099812,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472099632,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472099452,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472099272,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472099092,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472098912,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472098732,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472098552,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472098372,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472098192,
+    "value": 28.6
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472098012,
+    "value": 28.7
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472097832,
+    "value": 28.7
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472097652,
+    "value": 28.7
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472097472,
+    "value": 28.7
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472097292,
+    "value": 28.7
+  },
+  {
+    "sensorId": "d823cb4204c9715f5c811feaabeea45ce06736a0",
+    "time": 1472097112,
+    "value": 28.7
+  }
+]
